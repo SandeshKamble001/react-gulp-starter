@@ -1,0 +1,22 @@
+{
+  "name": "react-gulp-starter",
+  "version": "1.0.0",
+  "description": "A simple react starter template using gulp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SandeshKamble001/react-gulp-starter.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Sandesh Kamble",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SandeshKamble001/react-gulp-starter/issues"
+  },
+  "homepage": "https://github.com/SandeshKamble001/react-gulp-starter#readme"
+}
